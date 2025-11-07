@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/sujal-gajbhiye-8a233127a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 
 ### 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,python,MySQL,django,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,python,MySQL,django,git,github,
+  pandas,numpy,matplotlib,seaborn,opencv" />
 
 ### 🖼️ Fun Coding GIF
 <img align="right" alt="Coding" width="400" src="https://github.com/sujalguy/myrepo/assets/1234567890/coding.gif">
