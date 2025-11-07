@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sujal Gajbhiye</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**sujalguy/sujalguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’ve completed my Mechanical Engineering degree
+- 🌱  I’m currently learning Web Development and Data Science
+- 👯 I’m looking to collaborate on Python, Django, and Data Analysis projects
+- 🤝 I’m looking for help to land me a great job
+- 📫 How to reach me: **sujalgajbhiye10@gmail.com**
+- ⚡ Fun fact: I am Funny!
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+<a href="https://www.linkedin.com/in/sujal-gajbhiye-8a233127a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Languages and Tools:
+<img src="https://skillicons.dev/icons?i=html,css,python,sql,django,git,github" />
+
+### 🖼️ Fun Coding GIF
+<img align="right" alt="Coding" width="400" src="https://github.com/sujalguy/myrepo/assets/1234567890/coding.gif">
+
+
+
 -->
