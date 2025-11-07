@@ -12,8 +12,15 @@
 <a href="https://www.linkedin.com/in/sujal-gajbhiye-8a233127a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 
 ### 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,python,MySQL,django,git,github,
-  pandas,numpy,matplotlib,seaborn,opencv" />
+<img src="https://skillicons.dev/icons?i=html,css,python,MySQL,django,git,github" />
+
+### 🛠️ Data Science & ML
+![Pandas](https://img.shields.io/badge/-Pandas-339933?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=seaborn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 ### 🖼️ Fun Coding GIF
 <img align="right" alt="Coding" width="400" src="https://github.com/sujalguy/myrepo/assets/1234567890/coding.gif">
