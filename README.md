@@ -3,7 +3,7 @@
 
 - 🔭 I’ve completed my Mechanical Engineering degree
 - 🌱  I’m currently learning Web Development and Data Science
-- 👯 I’m looking to collaborate on Python, Django, and Data Analysis projects
+- 👯 I’m looking to collaborate on Python, Django, Data Analysis and Machine Learning projects
 - 🤝 I’m looking for help to land me a great job
 - 👨‍💻 All of my Major projects are available at https://drive.google.com/file/d/1HPz3pwDmLPyM_k9A_TTBlDpb90gHf0K5/view?usp=sharing
 - 📫 How to reach me: **sujalgajbhiye10@gmail.com**
