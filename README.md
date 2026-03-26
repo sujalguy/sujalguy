@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Gajbhiye</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 Undergraduate Computer science and Data science
+- 🔭 Undergraduate Computer science and Data science B.Tech
 - 👯 I’m looking to collaborate on Python, Django, MySQL and Machine Learning projects
 - 🤝 I’m looking for help to land me a great job
 - 👨‍💻 All of my Major projects are available at https://drive.google.com/file/d/1HPz3pwDmLPyM_k9A_TTBlDpb90gHf0K5/view?usp=sharing
