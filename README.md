@@ -18,9 +18,7 @@ https://www.linkedin.com/in/vansh-gajbhiye-ab3143372?utm_source=share_via&utm_co
 ### 🛠️ Data Science & ML
 ![Pandas](https://img.shields.io/badge/-Pandas-339933?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=seaborn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 
 ### 🖼️ Fun Coding GIF
