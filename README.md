@@ -18,7 +18,7 @@ https://www.linkedin.com/in/vansh-gajbhiye-ab3143372?utm_source=share_via&utm_co
 ### 🛠️ Data Science & ML
 ![Pandas](https://img.shields.io/badge/-Pandas-339933?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql&logoColor=white)
 
 
 
