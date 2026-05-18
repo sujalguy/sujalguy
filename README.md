@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vansh Gajbhiye</h1>
+<h1 align="center">Hi 👋, I'm Sujal Gajbhiye</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 Undergraduate Computer science and Data science B.Tech
